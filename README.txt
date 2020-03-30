@@ -1,0 +1,2 @@
+ok
+jas sum ok
